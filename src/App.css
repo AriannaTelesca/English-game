@@ -4,18 +4,27 @@
 }
 
 button{
-  font-size: 15px;
+  font-size: 18px;
   font-weight: bold;
-  margin: 10px;
-  color: rgb(36, 158, 158);  
+  margin: 20px;
+  color: rgb(36, 158, 158); 
+  border-radius: 8px; 
+  box-shadow: 0 1px rgb(17, 95, 95);  
+}
+
+.button:active {
+  background-color: rgb(17, 95, 95);
+  box-shadow: 0 3px #666;
+  transform: translateY(4px);
 }
 
 .score { 
-  font-size: larger;
+  font-size: 25px;
 }
 
 input {
   padding : 10px;
+  font-size: 18px;
 }
 
 table {
@@ -23,5 +32,9 @@ table {
   margin-bottom: 5%;
   margin: auto;
   align-items: center;
+  font-size: 18px;
+}
 
+.value {
+  font-size: 25px;
 }
