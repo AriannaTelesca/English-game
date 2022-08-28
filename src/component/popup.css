@@ -18,8 +18,8 @@
 
 .popupInner {
     position: relative;
-    margin-top:50px;
-    margin-bottom: 50px;
+    margin-top:40px;
+    margin-bottom: 40px;
     padding: 20px;
     width: 100%;
     max-width: 640px;
@@ -30,8 +30,8 @@
 .finalGame {
     color: aliceblue;
     position: relative;
-    margin-top: 50px;
-    margin-bottom: 50px;
+    margin-top: 40px;
+    margin-bottom: 40px;
     padding: 50px;
     width: 100%;
     max-width: 640px;

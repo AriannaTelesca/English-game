@@ -4,7 +4,7 @@
 }
 
 button{
-  font-size: 18px;
+  font-size: 16px;
   font-weight: bold;
   margin: 20px;
   color: rgb(36, 158, 158); 
@@ -19,12 +19,12 @@ button{
 }
 
 .score { 
-  font-size: 25px;
+  font-size: 20px;
 }
 
 input {
   padding : 10px;
-  font-size: 18px;
+  font-size: 16px;
 }
 
 table {
@@ -36,5 +36,5 @@ table {
 }
 
 .value {
-  font-size: 25px;
+  font-size: 20px;
 }
